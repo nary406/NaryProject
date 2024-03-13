@@ -1,0 +1,16 @@
+.popup-content {
+  background-color: #ffffff;
+}
+/* .image_Tag {
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .image_Tag {
+    display: none;
+  }
+} */
+
+::-webkit-scrollbar {
+  display: none;
+}
